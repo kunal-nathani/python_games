@@ -12,6 +12,7 @@ This repository contains a collection of Python games that you can play and enjo
 3. **Tic-Tac-Toe**: Play the classic game of Tic-Tac-Toe against the computer. Try to get three of your symbols in a row to win.
 
 4. **Quiz**: Questions will be provided you need to answer questions!
+5. **Snake**: A classic Snake game where you control a snake to eat food and grow longer. Be careful not to run into the walls or your own tail!
 
 ## Getting Started
 
